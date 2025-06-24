@@ -45,6 +45,10 @@ All form elements should always be visible on the page and should not be conditi
 
 Please ensure that if the base repository shows the original template repo, update it so that your repo's main branch is set as the base branch.
 
+You do not have to publically host the application. Add the screenshots and videos of local testing to PR description.
+
+You can use [Mailpit](https://mailpit.axllent.org/) for local testing of email functionality.
+
 **Recommended PHP version: 8.3**
 
 ---
