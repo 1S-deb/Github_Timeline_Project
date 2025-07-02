@@ -2,3 +2,8 @@
 require_once 'functions.php';
 // This script should send GitHub updates to registered emails every 5 minutes.
 // You need to implement this functionality.
+//Send Github updates to all registered subscribers
+sendGitHubUpdatesToSubscribers();
+
+echo "Github updates sent to all subscribers successfully .\n";
+?>
